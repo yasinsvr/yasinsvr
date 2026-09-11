@@ -2,9 +2,9 @@
 
 # Hey, I'm Yasin 👋
 
-### Developer • Builder • Problem Solver
+### PHP / Laravel Developer
 
-I enjoy turning ideas into **real, maintainable software**.
+I build web applications, backend systems, and tools that solve real problems.
 
 <br>
 
@@ -15,25 +15,19 @@ I enjoy turning ideas into **real, maintainable software**.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a developer focused mainly on **PHP and Laravel**, with a strong interest in building real-world applications and solving complex problems.
+I'm a developer mainly working with **PHP and Laravel**.
 
-My main experience is around backend development, but I also enjoy working across the stack — from database design and APIs to frontend interfaces.
+Most of my work is around backend development, business applications, APIs, databases, and admin panels. I also work with **Livewire and WordPress**, and have experience with frontend development.
 
-Currently, I'm focused on:
+I enjoy working on real projects where I can deal with things like application architecture, database design, authentication, permissions, payments, and business logic.
 
-* 🏗️ Building real-world Laravel applications
-* ⚡ Laravel & Livewire
-* 🧩 WordPress development
-* 🎨 Modern frontend development
-* 🗄️ Database design & backend architecture
-* 🤖 Exploring AI and Python
-* 📱 Flutter development
+Currently, I'm spending more time improving my Laravel and backend skills while learning **Python, and AI-related technologies**.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 
@@ -47,20 +41,19 @@ Currently, I'm focused on:
 <img src="https://skillicons.dev/icons?i=html,css,js,jquery,sass,tailwind,bootstrap,react" />
 </p>
 
-### CMS & Frameworks
+### Frameworks & CMS
 
 <p>
-<img src="https://skillicons.dev/icons?i=wordpress,laravel,django" />
-<img src="https://avatars.githubusercontent.com/u/73666563?v=4" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=laravel,django,wordpress" />
 </p>
 
 ### Database & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux,docker" />
 </p>
 
-### Mobile & Other
+### Mobile
 
 <p>
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
@@ -68,82 +61,97 @@ Currently, I'm focused on:
 
 ---
 
-## 🚀 What I Build
+## What I've Worked On
 
-I like working on projects that solve actual problems rather than just following tutorials.
+Some of the types of projects I've worked on:
 
-Some areas I've worked with:
-
-* 🏢 **ERP & Business Applications**
-* 💰 **Financial Systems**
-* 🔐 **Authentication & Authorization**
-* 🧩 **WordPress Plugins**
-* ⚡ **Livewire Applications**
-* 🎨 **Admin Dashboards & UI**
-* 📱 **Flutter Applications**
-* 🤖 **Python & AI Experiments**
+* 🏢 ERP and business management systems
+* 💰 Financial and payment-related systems
+* 🔐 Authentication and permission systems
+* ⚡ Laravel & Livewire applications
+* 🧩 WordPress plugins and custom functionality
+* 🎨 Admin dashboards and frontend interfaces
+* 📱 Flutter applications
+* 🤖 Python and AI experiments
 
 ---
 
-## 🧠 Currently Exploring
+## Currently
 
-- Improving Laravel application architecture
-- Building more advanced Livewire applications
-- Exploring AI integration with web applications
-- Improving frontend development with React
-- Working with Linux and developer tooling
-
-> Learning is a process. I don't try to know everything — I try to get better at building things.
+* Improving Laravel application architecture
+* Working with Livewire
+* Improving my database and backend design skills
+* Working more with Linux and developer tools
+* Exploring AI integration in web applications
 
 ---
 
-## 📌 Featured Projects
+## Projects
 
-> A collection of projects that represent how I think, design, and write code.
+### 🏢 Academy / ERP System
 
-### 🏢 ERP System
+A business management system for an educational institute.
 
-A real-world business management system built around modular architecture, permissions, financial management and reporting.
+The project includes areas such as:
+
+* Student management
+* Classes and attendance
+* Financial management
+* Permissions and roles
+* Reports
+* Admin dashboard
 
 **Laravel • Livewire • MySQL**
 
 [View Project →](https://codingk.com)
 
-### 🔌 WordPress Projects
+---
 
-Custom plugins and WordPress functionality focused on extending WordPress beyond standard CMS usage.
+### 🔌 Laravel Commerce API
+
+A REST API for managing products and categories.
+
+Some of the implemented features include:
+
+* Product and category management
+* Nested categories
+* API Resources
+* Product tracking codes
+* Structured API responses
+
+**Laravel • PHP • MySQL**
+
+[View Repository →](https://github.com/yasinsvr/laravel-commerce-api)
+
+---
+
+### 🧩 WordPress Projects
+
+I've worked on custom WordPress functionality and plugins, mainly around extending the default WordPress admin and content management workflow.
 
 **PHP • WordPress**
 
+---
+
 ### 🎨 Frontend Projects
 
-A collection of interfaces and components built while experimenting with different frontend technologies.
+Frontend projects and components built while working with different JavaScript and CSS technologies.
 
-**JavaScript • Tailwind CSS • Bootstrap • Sass**
-
-### 🤖 Python & AI Experiments
-
-Small projects and experiments exploring Python, AI APIs and local AI models.
-
-**Python • AI**
+**JavaScript • React • Tailwind CSS • Bootstrap • Sass**
 
 ---
 
-## 📊 GitHub Stats
+### 🤖 Python & AI
 
-<div align="center">
+Small projects and experiments with Python, AI APIs, and AI-related tools.
 
-<img src="https://github-readme-stats.vercel.app/api?username=yasinsvr&show_icons=true&hide_border=true&theme=transparent" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasinsvr&hide_border=true&theme=transparent" />
-
-</div>
+**Python • Django • AI**
 
 ---
 
-## 💬 Let's Connect
+## Contact
 
-If you're interested in software development, backend architecture, Laravel, open-source projects or just want to talk about tech — feel free to reach out.
+If you want to talk about development, Laravel, backend systems, or a project you're working on, feel free to reach out.
 
 📧 **[yasin.zolfaghari.dev@gmail.com](mailto:yasin.zolfaghari.dev@gmail.com)**
 
@@ -153,8 +161,8 @@ If you're interested in software development, backend architecture, Laravel, ope
 
 <div align="center">
 
-### "Build. Break. Learn. Build Better."
+### Build. Learn. Repeat.
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting.
 
 </div>
