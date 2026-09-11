@@ -133,9 +133,9 @@ Small projects and experiments exploring Python, AI APIs and local AI models.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api?username=yasinsvr&show_icons=true&hide_border=true&theme=transparent" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=transparent" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasinsvr&hide_border=true&theme=transparent" />
 
 </div>
 
